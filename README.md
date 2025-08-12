@@ -50,5 +50,5 @@ This is a React Native app built with **Expo** that allows users to submit start
 - Access to the live AI feedback backend URL
 
 ### Installation
--npm install
--npx expo start
+- npm install
+- npx expo start
