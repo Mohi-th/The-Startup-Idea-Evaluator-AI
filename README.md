@@ -49,3 +49,6 @@ This is a React Native app built with **Expo** that allows users to submit start
 - Expo CLI installed globally (`npm install -g expo-cli`)
 - Access to the live AI feedback backend URL
 
+### Installation
+-npm install
+-npx expo start
